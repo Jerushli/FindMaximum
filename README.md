@@ -12,7 +12,9 @@ To write a program to find the maximum of a list of numbers.
 
 i)	# To find the maximum of marks using the list method sort.
 ```Pythondef max_marks(marks):
-    
+
+DEVELOPED BY:JERUSHLIN JOSE J B
+REG NO:212222240039
 
 ''' 
 def max_marks(marks):
@@ -51,18 +53,20 @@ def max_marks(list1):
 
 
 
-![image](https://github.com/Jerushli/FindMaximum/assets/120041243/bb84516b-a021-4743-a077-69d62c3a3f87)
+![image](https://github.com/Jerushli/FindMaximum/assets/120041243/e90cbe0b-fd99-48ad-93de-da550f9a1f65)
 
 
 
 
 
-![image](https://github.com/Jerushli/FindMaximum/assets/120041243/0cc596b4-6c39-47c3-8d5d-811d8461ba4e)
+
+![image](https://github.com/Jerushli/FindMaximum/assets/120041243/250476e7-10ad-41a3-a0de-4a2f38f4991f)
 
 
 
 
-![image](https://github.com/Jerushli/FindMaximum/assets/120041243/69cc60ae-f5a9-4c8d-89ac-121323fabbd6)
+
+![image](https://github.com/Jerushli/FindMaximum/assets/120041243/e95a41be-ba23-4f57-9614-713ce4d747af)
 
 
 
