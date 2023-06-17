@@ -47,7 +47,7 @@ def max_marks(list1):
     return max
 
 ```
-## Sample Input and Output
+## Sample  Output :
 
 
 
